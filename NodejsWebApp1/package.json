@@ -1,9 +1,11 @@
 {
-  "name": "nodejs-web-app1",
-  "version": "0.0.0",
-  "description": "NodejsWebApp1",
-  "main": "server.js",
-  "author": {
-    "name": "stree"
-  }
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
 }
